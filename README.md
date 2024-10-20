@@ -32,12 +32,6 @@ pip install pillow google-cloud-vision
 Set up Google Cloud credentials by exporting your JSON key file:
 
 export GOOGLE_APPLICATION_CREDENTIALS="/path/to/credentials.json"
-
-Run the compliance check:
-
-image_path = "/path/to/your/ad/image.jpg"
-if is_image_compliant(image_path):
-    detect_text(image_path)
     
 Customize the code to include additional checks as needed.
 
