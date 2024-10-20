@@ -1,4 +1,4 @@
-#Ad Compliance Automation for StackAdapt
+Ad Compliance Automation for StackAdapt
 Overview:
 
 This repository contains a Python-based solution designed to automate the compliance check for ads being submitted to the StackAdapt platform. The tool was developed in response to a communication gap between the Account Executive (AE) and Platform Quality (PQ) teams at StackAdapt, which led to ads being flagged post-upload for non-compliance with platform rules and regulations.
